@@ -57,8 +57,8 @@ This project is designed to be simple and requires no build tools or complex set
 
 1. **Fork and clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/github-copilot-metrics-viewer-test.git
-   cd github-copilot-metrics-viewer-test
+   git clone https://github.com/YOUR_USERNAME/github-copilot-metric-viewer-test.git
+   cd github-copilot-metric-viewer-test
    ```
 
 2. **Open the project**:

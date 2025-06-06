@@ -22,7 +22,7 @@ A web-based dashboard that provides insights into GitHub Copilot usage patterns,
 ## 🚀 Getting Started
 
 ### Option 1: GitHub Pages (Recommended)
-✨ **Instant access**: Visit the live dashboard at: https://thomast1906.github.io/github-copilot-metrics-viewer-test/
+✨ **Instant access**: Visit the live dashboard at: https://thomast1906.github.io/github-copilot-metric-viewer-test/
 
 ### Option 2: Local Usage
 📁 **Download and go**: Clone the repository and open `index.html` in your browser  
@@ -51,7 +51,7 @@ The sample data includes:
 
 **Ready to see your own Copilot insights?** Here's how to get your data in 3 simple steps:
 
-> 💡 **New to the dashboard?** Try the [live demo](https://thomast1906.github.io/github-copilot-metrics-viewer-test/) with sample data first by clicking "📝 Load Sample Data"
+> 💡 **New to the dashboard?** Try the [live demo](https://thomast1906.github.io/github-copilot-metric-viewer-test/) with sample data first by clicking "📝 Load Sample Data"
 
 ### 🚀 Quick Start (Most Common)
 
@@ -66,7 +66,7 @@ The sample data includes:
 
 2. **Save the response** to a `.json` file (e.g., `copilot-metrics.json`)
 
-3. **Load it in the dashboard** - visit the [live dashboard](https://thomast1906.github.io/github-copilot-metrics-viewer-test/), click "📊 Load GitHub Copilot Data", and paste your JSON data
+3. **Load it in the dashboard** - visit the [live dashboard](https://thomast1906.github.io/github-copilot-metric-viewer-test/), click "📊 Load GitHub Copilot Data", and paste your JSON data
 
 ### 📍 Where to Get Your Token
 For detailed information about authentication and token setup, see the [GitHub Copilot Metrics API documentation](https://docs.github.com/en/rest/copilot/copilot-metrics?apiVersion=2022-11-28).
@@ -147,8 +147,8 @@ For a detailed analysis of why MIT License was chosen for this project, see [LIC
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/thomast1906/github-copilot-metrics-viewer-test/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/thomast1906/github-copilot-metrics-viewer-test/discussions)
+- **Issues**: [GitHub Issues](https://github.com/thomast1906/github-copilot-metric-viewer-test/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/thomast1906/github-copilot-metric-viewer-test/discussions)
 
 ## 🏗️ Roadmap
 
